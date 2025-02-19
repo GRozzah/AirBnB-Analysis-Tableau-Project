@@ -1,4 +1,7 @@
 # AirBnB-Analysis-Tableau-Project
+[Tableau Public link](https://public.tableau.com/views/AirBnBFullProject_17061326954370/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+#
 The goal of this project is to explore the relationship between key variables and Airbnb prices and visualize this information in an accessible and interactive manner.
 
 ![Dashboard](AirBnB_logo.png)
